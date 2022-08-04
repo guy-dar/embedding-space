@@ -2,3 +2,4 @@ __pycache__/*
 multiberts/*
 .ipynb_checkpoints/*
 trainer_output/*
+artifacts/*
